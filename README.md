@@ -1,1 +1,1 @@
-# kinesis-firehose-lanch
+# kinesis-firehose-launch
